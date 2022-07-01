@@ -1,0 +1,5 @@
+﻿  源.c
+e:\c语言例程\project10\project10\源.c(36): warning C4013: “malloc”未定义；假设外部返回 int
+e:\c语言例程\project10\project10\源.c(49): warning C4047: “=”:“node *”与“int”的间接级别不同
+e:\c语言例程\project10\project10\源.c(36): warning C4047: “初始化”:“node *”与“int”的间接级别不同
+  Project10.vcxproj -> E:\C语言例程\Project10\Debug\Project10.exe
